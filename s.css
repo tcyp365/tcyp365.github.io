@@ -1,0 +1,52 @@
+body {font-family:Tahoma,Arial, Helvetica, sans-serif;font-size:12px;color:#7B5A47; background:#F0EFE0 url(bg.gif) repeat-x top center; padding-top:25px;border:0;margin:0;}
+pre, code, select, input, textarea {font-size:12px;padding:0; margin:0;}
+html > body textarea {font-size:12px;}
+
+html,div,ol,ul,i,li,form,p,h1,h2,h3,h4,h5,h6,dd,dl,dt,span,em{margin:0;padding:0;border:0;}
+div,p,td,th,dt,dd,h1,h2,h3,h4,h5,h6,span,em,i,a{word-wrap:break-word;word-break:break-all;}
+ul,li{ list-style-image: none; list-style-type: none;}
+em {font-style:normal;}
+div {margin:0 auto;}
+img {border:0 none;}
+h1,h2,h3{ font-size:14px;}
+h4,h5,h6 { font-size:12px;}
+td,th{ line-height:120%;}
+
+a,a:visited{text-decoration:none; color:#491701;}
+a:hover{ text-decoration:none;color:#D17B00;}
+
+.cc{ text-align:center;}
+.lf{ float:left;}
+.rf{ float:right;}
+.tr{ text-align:right;}
+.bb{ font-weight:bold;}
+.ov{ overflow:hidden;zoom:1;}
+.cr{ clear:both;}
+
+.header{ background:#fff;}
+.doMain{ width:900px;padding:15px 0;}
+.doMain h2{font-size:26px;text-shadow: 1px 1px 1px #999;color:#491701;}
+.doMain p{font-size:18px;}
+.focus{ background:#E3DECF; padding:20px;text-align:center;}
+.focusBox{ width:900px;}
+.focusBox h2{color:#D17B00;padding-bottom:15px;}
+
+.content{ width:900px; margin-bottom:20px;}
+.leftBox{ width:586px; float:left; border:1px solid #DBD4C6; border-top:0;padding:1px;}
+.itemList{ margin-bottom:10px;}
+.itemTitle{ height:30px; line-height:30px;padding-top:5px;}
+.itemTitle h2{ float:left;text-align:center; background:#998D6A; margin-left:-10px; font-size:14px; color:#fff;padding:0 10px;}
+.itemText{ padding:20px; font-size:14px; line-height:24px;}
+.itemText p{color: #998D6A;}
+
+.rightBox{ float:right; width:280px; padding-top:20px;}
+.rightItem{ margin-bottom:10px; line-height:21px; font-size:14px;}
+.rightItem h2{ border-bottom:1px solid #DBD4C6; margin-bottom:10px;}
+.rightItem h2 span{ display:block; width:80px; padding:2px 0 2px 10px;border-bottom:2px solid #DBD4C6;}
+.aboutUs { padding:0 10px;color: #998D6A;}
+.aboutUs ul{ height:22px; margin-bottom:10px;}
+.aboutUs li{ float:left;height:22px; padding-right:10px;}
+.aboutUs li img{vertical-align:middle;}
+.footer{ color:#694D3C; text-align:center; padding:15px 20px; line-height:24px; background:#D8D1C1 url(foot.gif) repeat-x top center;}
+.footerBox{ width:900px;}
+.stat{display:none;}
